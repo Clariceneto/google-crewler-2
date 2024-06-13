@@ -57,7 +57,7 @@ async function main(options) {
   const queries = options.search.split(',').map(query => query.trim());
   const amount = options.amount;
   const citationFilter = options.citation_filter || 0;
-  const webhookUrl = options.webhook_url || 'http://localhost:5678/workflow/il3yJcHUNbPKVhPs';
+  const webhookUrl = options.webhook_url || 'http://localhost:5678/webhook-test/ssm-twitter-in';
   let allArticles = [];
   let articlesByQuery = [];
 
@@ -98,7 +98,7 @@ program
   .requiredOption('-n, --amount <number>', 'Number of results to fetch', parseInt)
   .requiredOption('-t, --time-period <hours>', 'Number of hours back to search', parseInt)
   .requiredOption('-s, --search <query>', 'Search query')
-  .option('-w, --webhook_url <url>', 'Webhook URL to post results', 'http://localhost:5678/workflow/il3yJcHUNbPKVhPs')
+  .option('-w, --webhook_url <url>', 'Webhook URL to post results', 'http://localhost:5678/webhook-test/ssm-twitter-in')
   .requiredOption('-o, --output <file>', 'Output file for the resulting data')
   .option('-v, --verbose', 'Enable verbose mode')
   .option('-c, --config_file <file>', 'Configuration file')
