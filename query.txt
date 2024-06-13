@@ -1,0 +1,18 @@
+$body = @ {
+    "title": "Machine learning",
+    "authors": "ZH Zhou - 2021 - books.google.com",
+    "abstract": "… machine learning. The second part includes Chapters 4–10, which presents some classic and \npopular machine learning … cover the core topics of machine learning in one semester, and …",
+    "link": "https://books.google.com/books?hl=pt-PT&lr=&id=ctM-EAAAQBAJ&oi=fnd&pg=PR6&dq=machine+learning&ots=o_JpV9Rx1r&sig=m8UntmHqm9j4GB2LE8Ge-nq0EhM",
+    "citationCount": 0,
+    "publication": "2021",
+    "publisher": "ZH Zhou",
+    "date": "Jun 13, 2024, 7:19:20 PM",
+    "project": "AI"
+  }
+
+try {
+  $response = Invoke-WebRequest -Uri "http://localhost:5678/webhook-test/ssm-twitter-in" -Method Post -ContentType "application/json" -Body ($body | ConvertTo-Json)
+  Write-Output "Success: $($response.StatusCode)"
+} catch {
+  Write-Error "Error posting to webhook: $_"
+}

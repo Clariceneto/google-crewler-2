@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Machine learning",
+    "authors": "ZH Zhou - 2021 - books.google.com",
+    "abstract": "… machine learning. The second part includes Chapters 4–10, which presents some classic and \npopular machine learning … cover the core topics of machine learning in one semester, and …",
+    "link": "https://books.google.com/books?hl=pt-PT&lr=&id=ctM-EAAAQBAJ&oi=fnd&pg=PR6&dq=machine+learning&ots=o_JpV9Ts1s&sig=VZoahc6vIxB7NaJFOYxllPiU3cw",
+    "citationCount": 0,
+    "publication": "2021",
+    "publisher": "ZH Zhou",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "Quantum machine learning",
+    "authors": "J Biamonte, P Wittek, N Pancotti, P Rebentrost… - Nature, 2017 - nature.com",
+    "abstract": "… software that could enable machine learning that is faster than … as the building blocks of \nmachine learning programs, but the … We briefly discuss conventional machine learning—the use …",
+    "link": "https://www.nature.com/articles/nature23474",
+    "citationCount": 0,
+    "publication": "nature.com",
+    "publisher": "J Biamonte, P Wittek, N Pancotti, P Rebentrost… - Nature, 2017",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "A review of machine learning and deep learning applications",
+    "authors": "PP Shinde, S Shah - 2018 Fourth international conference on …, 2018 - ieeexplore.ieee.org",
+    "abstract": "… learning. A review of these past and future application domains, sub-domains, and applications \nof machine learning and deep learning … to study machine learning and deep learning. It …",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8697857/",
+    "citationCount": 0,
+    "publication": "ieeexplore.ieee.org",
+    "publisher": "PP Shinde, S Shah - 2018 Fourth international conference on …, 2018",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "Machine learning algorithms-a review",
+    "authors": "B Mahesh - International Journal of Science and Research (IJSR) …, 2020 - researchgate.net",
+    "abstract": "… Here‟sa quick look at some of the commonly used algorithms in machine learning (ML) \nSupervised Learning Supervised learning is the machine learning task of learning a function …",
+    "link": "https://www.researchgate.net/profile/Batta-Mahesh/publication/344717762_Machine_Learning_Algorithms_-A_Review/links/5f8b2365299bf1b53e2d243a/Machine-Learning-Algorithms-A-Review.pdf?eid=5082902844932096",
+    "citationCount": 0,
+    "publication": "researchgate.net",
+    "publisher": "B Mahesh - International Journal of Science and Research (IJSR) …, 2020",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "Machine learning",
+    "authors": "E Alpaydin - 2021 - books.google.com",
+    "abstract": "A concise overview of machine learning--computer programs that learn from data--the basis \nof such applications as voice recognition and driverless cars. Today, machine learning …",
+    "link": "https://books.google.com/books?hl=pt-PT&lr=&id=2nQJEAAAQBAJ&oi=fnd&pg=PR7&dq=machine+learning&ots=fI_aRbWzms&sig=ZGHnvhpLlRxt0WUJZhOc3JOi484",
+    "citationCount": 0,
+    "publication": "2021",
+    "publisher": "E Alpaydin",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "What is machine learning?",
+    "authors": "I El Naqa, MJ Murphy - 2015 - Springer",
+    "abstract": "… A machine learning algorithm is a computational process that … This training is the “learning” \npart of machine learning. The … can practice “lifelong” learning as it processes new data and …",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-18305-3_1",
+    "citationCount": 0,
+    "publication": "2015",
+    "publisher": "I El Naqa, MJ Murphy",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "Unsupervised machine learning",
+    "authors": "F Hahne, W Huber, R Gentleman, S Falcon… - Bioconductor case …, 2008 - Springer",
+    "abstract": "… As we noted in the other machine learning exercise, no machine learning can take place \nwithout some notion of distance. It is not possible to cluster or classify samples without some …",
+    "link": "https://link.springer.com/chapter/10.1007/978-0-387-77240-0_10",
+    "citationCount": 0,
+    "publication": "Springer",
+    "publisher": "F Hahne, W Huber, R Gentleman, S Falcon… - Bioconductor case …, 2008",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "On applied research in machine learning",
+    "authors": "F Provost, R Kohavi - MACHINE LEARNING-BOSTON-, 1998 - ai.stanford.edu",
+    "abstract": "… Much of the \\science\" of Machine Learning is a … er learning research, that misclassi cation \nerrors have equal costs. The vast majority of classi er learning research in Machine Learning …",
+    "link": "https://ai.stanford.edu/~ronnyk/editorial.pdf",
+    "citationCount": 0,
+    "publication": "ai.stanford.edu",
+    "publisher": "F Provost, R Kohavi - MACHINE LEARNING-BOSTON-, 1998",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "Machine learning and deep learning",
+    "authors": "C Janiesch, P Zschech, K Heinrich - Electronic Markets, 2021 - Springer",
+    "abstract": "… Machine learning … Deep learning is a machine learning concept based on artificial neural \nnetworks. For many applications, deep learning models outperform shallow machine learning …",
+    "link": "https://link.springer.com/article/10.1007/s12525-021-00475-2",
+    "citationCount": 0,
+    "publication": "Springer",
+    "publisher": "C Janiesch, P Zschech, K Heinrich - Electronic Markets, 2021",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  },
+  {
+    "title": "Lifelong machine learning",
+    "authors": "Z Chen, B Liu - 2022 - books.google.com",
+    "abstract": "… The goal of this book is to introduce this emerging machine learning … machine learning that \nare closely related to lifelong learning, most notably, multi-task learning and transfer learning, …",
+    "link": "https://books.google.com/books?hl=pt-PT&lr=&id=z4RyEAAAQBAJ&oi=fnd&pg=PR1&dq=machine+learning&ots=r_cieh5xxF&sig=32lKSFO8H8C62nEmCrzTyDhIFU0",
+    "citationCount": 0,
+    "publication": "2022",
+    "publisher": "Z Chen, B Liu",
+    "date": "Jun 13, 2024, 7:44:23 PM",
+    "project": "AI"
+  }
+]

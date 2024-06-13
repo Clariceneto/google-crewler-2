@@ -1,0 +1,7 @@
+{
+  "maxPages": 2,
+  "delayBetweenRequests": 2000,
+  "maxRetries": 3,
+  "retryDelay": 3000,
+  "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe"
+}
